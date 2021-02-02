@@ -19,7 +19,7 @@ Code for our paper:
 ### Workspace
 Following directories should be created for our experiments.
 - `./cache` -> storing model checkpoints
-- `./result` -> storing evalution results
+- `./result` -> storing evaluation results
 
 ## 2. Preprocessing
 We use the following datasets for our experiments.
